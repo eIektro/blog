@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkımda
+permalink: /hakkimda/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Merhabalar. [Mail](mailto:merhabade@metinemrekoral.com.tr)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+GitHub hesabım
+[eiektro][github-hesabim] /
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
+[github-hesabim]: https://github.com/eiektro
+
+Bu blog, GitHub Pages ve Jekyll kullanılarak oluşturulmuştur.
+
+Jekyll hakkında daha fazla bilgi edinmek için inceleyebilirsiniz:
 [jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
