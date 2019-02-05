@@ -2,6 +2,7 @@
 layout: page
 title: Hakkımda
 permalink: /hakkimda/
+lang: tr
 ---
 
 Merhabalar. [Mail](mailto:merhabade@metinemrekoral.com.tr)
