@@ -17,6 +17,7 @@ Editor' kullanılarak oluşturuldu ve
 'git' ile sayfaya `commit` edildi. 
 
 Bizde yenilikler bitmez, bakalım daha 
-neler göreceğiz:). Takipte kalın: 
+neler göreceğiz:). Takipte 
+kalın: 
 [github-elektro]: 
 https://github.com/eiektro
