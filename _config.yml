@@ -16,9 +16,9 @@
 title: Not Defterim
 email: merhabade@metinemrekoral.com.tr
 description: >- # this means to ignore newlines until "baseurl:"
-  Ben Metin Emre. Açık Kaynak, Yazılım Geliştirme, SEO, Dijital Pazarlama ve Yapay Zeka konularıyla ilgiliyim. Bu adrese
-  bu konularla ilgili elimden geldiğince not bırakmaya çalışacağım. Merhaba demek isterseniz; merhabade@metinemrekoral.com.tr
-baseurl: "/" # the subpath of your site, e.g. /blog
+  SEO.
+baseurl: "/" # 
+the subpath of your site, e.g. /blog
 url: "https://blog.metinemrekoral.com.tr" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  eiektro
 lang: tr
