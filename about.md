@@ -5,10 +5,10 @@ permalink: /hakkimda/
 lang: tr
 ---
 
-Merhabalar. [Mail](mailto:merhabade@metinemrekoral.com.tr)
+Merhabalar. [Mail](mailto:merhaba@metinemrekoral.com.tr)
 
-GitHub hesabım
-[eiektro][github-hesabim] /
+Github:
+[eiektro][github-hesabim] 
 
 [github-hesabim]: https://github.com/eiektro
 
