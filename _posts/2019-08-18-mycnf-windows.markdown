@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "my.conf dosyası windows'ta nerede"
+title: "my.cnf dosyası windows'ta nerede"
 lang: tr
 tags: [mysql, veritabanı, windows]
 categories: [tip&tricks]
