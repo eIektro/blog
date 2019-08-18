@@ -4,7 +4,8 @@ title: "Termux Terminali ile Android
 üzerinden blog yazmak"
 date: 2019-02-07 02:51:17
 lang: tr
-categories: mobil yenilik
+tags: [mobil yenilik]
+categories: [tips&tricks]
 ---
 Merhabalar, git komutları kullanarak 
 güncelleme işlemlerini yaptığım bu 

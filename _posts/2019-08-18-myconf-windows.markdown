@@ -2,8 +2,8 @@
 layout: post
 title: "my.conf dosyası windows'ta nerede"
 lang: tr
-tags: mysql veritabanı windows 
-categories: tip&tricks
+tags: [mysql, veritabanı, windows]
+categories: [tip&tricks]
 ---
 Merhabalar, 
 Herhangi bir web development kütüphanesi kullanarak Windows üzerinde iş yapmanız gerekiyor. Kullanacağınız git reposunu yerel dizininize çektiniz. localhost kurup, veritabanını bağlayıp başlayacaksınız. 
