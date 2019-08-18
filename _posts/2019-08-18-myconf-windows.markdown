@@ -5,6 +5,7 @@ lang: tr
 tags: [mysql, veritabanı, windows]
 categories: [tip&tricks]
 ---
+![bilmeyenler için mysql logosu](/images/logo-mysql.png)
 Merhabalar, 
 Herhangi bir web development kütüphanesi kullanarak Windows üzerinde iş yapmanız gerekiyor. Kullanacağınız git reposunu yerel dizininize çektiniz. localhost kurup, veritabanını bağlayıp başlayacaksınız. 
 
