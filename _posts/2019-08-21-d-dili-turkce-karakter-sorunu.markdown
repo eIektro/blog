@@ -10,7 +10,9 @@ categories: ["tip&tricks"]
 Yapmanız gereken tek şey kodunuz derlendikten sonra, kodu çalıştıracağınız konsola UTF8'e geçmesini söylemek.
 Kullandığınız terminalinize `chcp 65001` yazmanız yeterli.
 
-Ben Türkçe karakter sorununu[1]: http://ddili.org/forum/post/8;?unb666sess=9a2ae08df7910b8e29b123d8df22cd05 bu şekilde çözdüm.
+Ben [Türkçe karakter sorununu][1] bu şekilde çözdüm.
+
+[1]: http://ddili.org/forum/post/8;?unb666sess=9a2ae08df7910b8e29b123d8df22cd05 "D Dili Forumu'nda"
 
 <h3>D Dili Nedir</h3>
 
