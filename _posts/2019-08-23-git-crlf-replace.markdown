@@ -15,9 +15,11 @@ Linux'te ve Windows'ta veya herhangi bir işletim siteminde bu gizli işaretin f
 Bu uyarı çıkmadan satır sonları otomatik olarak CRLF çevrilsin istiyorsak. Git Bash'te aşağıdaki komutu yazabiliriz.
 
 ```git
-git config --global core.autocrlf true```
+git config --global core.autocrlf true
+```
 
 Herhangi bir dönüşüme ihtiyacınız yoksa değeri false yapabilirsiniz.
 
 ```git
-git config --global core.autocrlf false```
+git config --global core.autocrlf false
+```
