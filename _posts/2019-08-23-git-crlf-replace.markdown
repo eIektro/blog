@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "warning:LF will be replaced by CRLF in git çözümü"
+title: "warning:LF will be replaced by CRLF çözümü"
 lang: tr
 tags: ["git", "lf", "crlf", "satır sonu", "end of line squence"]
 categories: ["tip&tricks"]
