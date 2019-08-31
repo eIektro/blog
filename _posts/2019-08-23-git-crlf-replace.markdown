@@ -10,7 +10,7 @@ Kısaca bu uyarının temel nedeni şudur. Herhangi bir işletim sisteminde edit
 Linux'te ve Windows'ta veya herhangi bir işletim siteminde bu gizli işaretin farklı olması bu sorunu ortaya çıkarır.
 
 
-<h2>warning:LF will be replaced by CRLF in git çözümü</h2>
+<h2>warning:LF will be replaced by CRLF çözümü</h2>
 
 Bu uyarı çıkmadan satır sonları otomatik olarak CRLF çevrilsin istiyorsak. Git Bash'te aşağıdaki komutu yazabiliriz.
 
