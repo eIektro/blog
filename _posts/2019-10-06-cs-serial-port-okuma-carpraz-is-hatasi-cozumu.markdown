@@ -14,7 +14,7 @@ Serial Port'tan veriyi alıp okuyacak ve kullanacak şekilde çözümünüzü ay
 
 2. Uygulamanız çalışıyor ama debug kısmında Cross-Thread (çarpraz iş parçacığı) hatasını görüyorsunuz. Bunun için [çözüm 2](#cozum2)
 
-## <a name="cozum1"></a> Çözüm 2
+## <a name="cozum1"></a> Çözüm 1
 
 Öncelikle aşağıdaki değerin uygulamanız için false olduğuna emin olun ki, illegal çarpraz iş parçacığı işlemlerinde size hata versin.
 
